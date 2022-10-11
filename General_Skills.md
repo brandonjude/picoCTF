@@ -6,7 +6,8 @@ Download the flag file link using “wget” command:
 ```
 Then output the contents of file, which is the flag, to the terminal using “cat” command:
 ```console
-~$ cat flag  
+~$ cat flag
+picoCTF{s4n1ty_v3r1f13d_4a2b35fd}
 ```
 
 &nbsp;
